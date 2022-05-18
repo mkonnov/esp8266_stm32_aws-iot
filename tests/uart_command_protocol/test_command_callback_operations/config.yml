@@ -1,0 +1,7 @@
+:cmock:
+  :mock_prefix: mock_
+  :mock_path: build
+  :plugins: [
+   array,
+   callback
+  ]

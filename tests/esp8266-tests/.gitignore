@@ -1,0 +1,6 @@
+# Test artifacts
+*.out
+
+# Test runner sources.
+# They are generating automatically by Ruby script.
+*_runner.c
